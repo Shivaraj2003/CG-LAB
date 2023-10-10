@@ -1,7 +1,7 @@
 # CG-LAB
 ## Computer Graphics Laboratory Programs
 
-This repository contains a collection of programs developed for the Computer Graphics laboratory . Each program is implemented using C and OpenGL to demonstrate various computer graphics concepts.
+This repository contains a collection of programs of the Computer Graphics laboratory . Each program is implemented using C and OpenGL to demonstrate various computer graphics concepts.
 
 ## Program List
 
